@@ -1,0 +1,8 @@
+{
+  "name": "dont-altf4-community",
+  "main": "community.mjs",
+  "compatibility_date": "2026-10-25",
+  "vars": {
+    "ALLOWED_ORIGINS": "https://hongkitaeportfolio.com,https://shyboy0113.github.io"
+  }
+}
