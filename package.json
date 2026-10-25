@@ -1,0 +1,11 @@
+{
+  "name": "dont-altf4-game-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/*.test.cjs"
+  },
+  "dependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
